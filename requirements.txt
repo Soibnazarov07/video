@@ -3,4 +3,3 @@ yt-dlp
 shazamio
 aiohttp
 redis
-pyaudioop
